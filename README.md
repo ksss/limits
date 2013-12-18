@@ -1,6 +1,6 @@
 # Limits
 
-Const Collections of limits.h.
+Const Collections of limits.h in Ruby.
 
 ## Consts
 
